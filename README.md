@@ -1,6 +1,6 @@
 # Miquelantte
 
-Sistema de agendamento e gestão para a barbearia Miquelantte.
+Sistema de gestão de agendamentos integrado ao WhatsApp, com automação conversacional para clientes e painel web para gestão da barbearia.
 
 ## Objetivo
 
